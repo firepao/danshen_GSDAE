@@ -1,0 +1,21 @@
+# Jupyter & Python 缓存
+__pycache__/
+.ipynb_checkpoints/
+
+# IDE 和编辑器配置
+.vscode/
+.idea/
+
+# 数据文件 (非常重要，避免上传大数据)
+data_R/
+*.csv
+*.txt
+
+# KerasTuner 和输出目录
+D:/kerastuner_dir/
+results/
+outputs/
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
